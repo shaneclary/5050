@@ -99,6 +99,13 @@ export default function LetterPage() {
               With respect and thanks,
               <br />
               <span className="font-sans text-base text-ink">Shane Clary</span>
+              <br />
+              <a
+                href="https://5050forall.com"
+                className="font-sans text-sm text-ink/60 hover:text-gold-dark underline decoration-gold/60 decoration-1 underline-offset-4"
+              >
+                5050forall.com
+              </a>
             </p>
           </article>
         </div>
