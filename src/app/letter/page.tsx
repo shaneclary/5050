@@ -3,7 +3,7 @@ import { Reveal } from "@/components/Reveal";
 
 export const metadata: Metadata = {
   title: "Letter to Senator Dodd — 50/50 For All",
-  description: "A letter to retired California State Senator Bill Dodd on extending SB 650's 50/50 raffle framework to all California charities.",
+  description: "An open letter to retired California State Senator Bill Dodd asking him to help extend SB 650's 50/50 raffle framework to all California charities.",
 };
 
 export default function LetterPage() {
@@ -20,7 +20,7 @@ export default function LetterPage() {
             <h1 className="font-display text-5xl sm:text-7xl tracking-tight leading-[0.95]">
               To the Honorable<br />Bill Dodd
             </h1>
-            <p className="mt-6 text-cream/50">April 20, 2026</p>
+            <p className="mt-6 text-cream/50">California State Senator (ret.) &middot; April 2026</p>
           </Reveal>
         </div>
       </section>
@@ -28,68 +28,75 @@ export default function LetterPage() {
       <section className="section-light">
         <div className="mx-auto max-w-2xl px-6 py-20">
           <article className="space-y-7 text-lg sm:text-xl leading-[1.8] font-display text-ink/85">
-            <p>Dear Senator,</p>
-
-            <p>A man retires and the mail thins out. I&rsquo;m sending one the other way.</p>
+            <p>Dear Senator Dodd,</p>
 
             <p>
-              In October 2023 you carried SB 650 across the finish line. When the Governor
-              signed it, the fifty-fifty raffle for Major League sports stopped being an
-              experiment and became permanent law. A quiet piece of work, the kind of fix
-              that keeps a thing alive after the people who started it have moved on. The
-              Giants Community Fund has served more than a hundred and fifty thousand kids
-              on the strength of those proceeds. That math began on your desk.
+              Retirement usually means fewer letters and no more obligation to respond. I
+              hope you afford this one with your attention nonetheless.
             </p>
 
             <p>
-              The other raffle program, the one for the small nonprofits, is the reverse
-              picture. It has a ninety-percent-to-charity rule that sounds generous until
-              you try to run one. You can&rsquo;t pay the printer. You can&rsquo;t pay the
-              software. You can&rsquo;t pay a person to count the tickets, not if ninety
-              cents is already spoken for. The program died the slow way, the way a field
-              goes back to brush when nobody&rsquo;s working it. The state hasn&rsquo;t
-              counted a receipt on it since 2003. Two hundred thousand California
-              nonprofits, and a rule that stops them at the gate.
+              In 2023, you carried SB 650 to the finish line and secured permanent
+              authorization for 50/50 raffles in Major League sports. It was a practical
+              piece of legislation with real impact. The Giants Community Fund alone has
+              directed those proceeds toward programs that have served more than 150,000
+              children as a result of your efforts.
             </p>
 
             <p>
-              The fix isn&rsquo;t complicated, and it&rsquo;s already sitting on your shelf.
-              Take the fifty-fifty frame you made permanent for the sports teams and hand it
-              to the rest. Same split. Same oversight. Same transparency. If it&rsquo;s good
-              enough for the Dodgers, it&rsquo;s good enough for the food bank. They just
-              got a workable rule, and it&rsquo;s time the rest had one too.
+              The broader charitable raffle system in California tells the opposite story.
+              For small nonprofits, the 90 percent-to-charity rule appears generous on paper
+              but is unworkable in practice. A raffle cannot run itself. There are printing
+              costs, software costs, staffing costs, compliance costs, and basic
+              administrative costs. When nearly every dollar is already committed before the
+              first ticket is sold, the program becomes unmanageable. That is exactly what
+              happened. The state has not reported receipts under that framework since 2003.
+              More than 200,000 California nonprofits remain boxed out by a rule that leaves
+              them no viable path to participate. Meanwhile, Omaze is raking in millions for
+              charity across the pond.
             </p>
 
             <p>
-              The technology has caught up to the idea. When the old ninety-percent law was
-              written, tracking a raffle meant a shoebox and a paper ledger, and the worry
-              was money going missing on the way to the cause. That worry was reasonable
-              then. It&rsquo;s not reasonable now. Every ticket can be numbered, every
-              dollar traced from buyer to beneficiary in real time, on a phone, for pennies.
-              The accounting problem that justified the old rule has been solved by
-              engineers who never heard of it.
+              The solution is straightforward. Extend the same workable 50/50 framework now
+              used by Major League sports teams to the rest of California&rsquo;s charitable
+              sector. Keep the same oversight. Keep the same reporting. Keep the same
+              transparency. If that structure is sound for the Dodgers, it is sound for a
+              food bank, a youth organization, or a local community foundation.
             </p>
 
             <p>
-              I&rsquo;m writing to ask for your help. The effort is called 50/50 For All:
-              one rule, every California charity, nothing fancy. Lend it your name. Lend it
-              your voice. Give me a few introductions to the people who worked with you on
-              SB 650. Your colleagues still in the building will read a letter from you
-              differently than they will read one from me.
+              The case for reform is even stronger now than it was twenty years ago. When the
+              old 90 percent rule was written, lawmakers were dealing with a real concern:
+              weak tracking, poor controls, and cash handling that made abuse easier. That
+              concern made sense at the time. It does not carry the same force today.
+              Tickets can now be serialized, payments can be tracked digitally, and funds can
+              be monitored in real time from purchase to distribution. The accountability
+              problem that once justified a rigid rule has largely been solved.
             </p>
 
             <p>
-              A legacy isn&rsquo;t the bill you passed. It&rsquo;s the bill that came next
-              because yours worked. You built the door; I&rsquo;m trying to widen it.
+              I am writing to ask for your help. The effort is called{" "}
+              <span className="text-gold-dark">&ldquo;50/50 For All&rdquo;</span> &mdash; or
+              even, with your permission,{" "}
+              <span className="text-gold-dark">&ldquo;Dodd&rsquo;s 50/50 For All&rdquo;</span>
+              : one workable rule for every California charity. I would be grateful for your
+              guidance, your voice, and any introductions you would be willing to make to
+              those who worked with you on SB 650. A recommendation from you would carry real
+              weight with the people still in the building.
             </p>
 
             <p>
-              Retirement has its own rhythms, and I don&rsquo;t want to intrude on them. If
-              this finds you at the right time, I&rsquo;d be grateful for a conversation.
+              Your earlier work proved the model. This is the natural next step. I have no
+              financial incentive behind this proposal.
+            </p>
+
+            <p>
+              If this reaches you at the right moment, I would be grateful for the chance to
+              speak.
             </p>
 
             <p className="pt-4">
-              With respect and with thanks,
+              With respect and thanks,
               <br />
               <span className="font-sans text-base text-ink">Shane Clary</span>
             </p>
