@@ -51,9 +51,12 @@ export default function LetterPage() {
               administrative costs. When nearly every dollar is already committed before the
               first ticket is sold, the program becomes unmanageable. That is exactly what
               happened. The state has not reported receipts under that framework since 2003.
-              More than 200,000 California nonprofits remain boxed out by a rule that leaves
-              them no viable path to participate. Meanwhile, Omaze is raking in millions for
-              charity across the pond.
+              In response to a Public Records Act request this month, the Attorney General&rsquo;s
+              office confirmed in writing that no analytical report on the program has been
+              produced and that no aggregate compliance data is maintained. More than
+              200,000 California nonprofits remain boxed out by a rule that leaves them no
+              viable path to participate. Meanwhile, Omaze is raking in millions for charity
+              across the pond.
             </p>
 
             <p>
